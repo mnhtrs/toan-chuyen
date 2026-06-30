@@ -1,0 +1,409 @@
+== Đại số ==
+  --- CHƯƠNG 1: PHƯƠNG TRÌNH, BẤT PHƯƠNG TRÌNH VÀ HỆ PHƯƠNG TRÌNH ---
+    - Bài 1: Phương trình tích, phương trình chứa ẩn ở mẫu (YouTube: https://www.youtube.com/watch?v=TPWiZk80RR4)
+    - [BTVN] Bài 1: Phương trình tích, phương trình chứa ẩn ở mẫu (Tài liệu: https://drive.google.com/file/d/1QVhm7witY2dz7QVc5yaxo4wA5gBDYivi/preview)
+    - Bài 2: Bất phương trình (YouTube: https://www.youtube.com/watch?v=d1xpSC4sXHQ)
+    - [BTVN] Bài 2: Bất phương trình (Video bài 1-5) (YouTube: https://www.youtube.com/watch?v=l3PdjpxZmiU)
+    - [BTVN] Bài 2: Bất phương trình (bài 6-10) (Tài liệu: https://drive.google.com/file/d/1UOlk9HFHLnRAQYg6TGX-pJshVoj0VpOc/preview)
+    - Bài 3: Hệ phương trình (YouTube: https://www.youtube.com/watch?v=t2ozCdL2F0s)
+    - [BTVN] Bài 3: Hệ phương trình bậc nhất hai ẩn (Tài liệu: https://drive.google.com/file/d/1J8E5swG4n2OTOrRaq7gCXzk0qW_3YskU/preview)
+    - Bài 4: Hệ phương trình có chứa tham số (YouTube: https://www.youtube.com/watch?v=nuaDjdeHZRY)
+    - [BTVN] Bài 4: Hệ phương trình có tham số (YouTube: https://www.youtube.com/watch?v=k72hb1_zCF4)
+    - Bài 5: Giải bài toán bằng cách lập hệ phương trình (YouTube: https://www.youtube.com/watch?v=fhgwrf4XLHw)
+    - [BTVN] Bài 5: Giải bài toán bằng cách lập hệ (Tài liệu: https://drive.google.com/file/d/1HRehTo6wDVRcCQEJLu1wwiH1Qj_K_6vX/preview)
+  --- CHƯƠNG 2: CĂN BẬC HAI - CĂN BẬC BA ---
+    - [Bổ trợ] B1. Căn bậc hai - Căn thức bậc hai (YouTube: https://www.youtube.com/watch?v=Mv8huih6twM)
+    - [Bổ trợ] B2. Căn bậc hai của tích - thương (YouTube: https://www.youtube.com/watch?v=98mrUKuy1Ys)
+    - [Bổ trợ] B3. Khử mẫu chứa căn và trục căn thức ở mẫu (YouTube: https://www.youtube.com/watch?v=3BVVH7IFhdg)
+    - Bài 1: Căn bậc hai - Căn bậc ba (YouTube: https://www.youtube.com/watch?v=ZBvoGsLgAeM)
+    - [BTVN] Bài 1: Căn bậc hai - căn bậc ba (Tài liệu: https://drive.google.com/file/d/1e_s2x98mJFXQn_fxwJ_iTm0j5uZch901/preview)
+    - Bài 2: Biểu thức chứa căn bậc hai (YouTube: https://www.youtube.com/watch?v=dveB0Ixp0XQ)
+    - [BTVN] Bài 2: Biểu thức chứa căn bậc hai (Tài liệu: https://drive.google.com/file/d/1MoplgG_ym7YqUHOUJChtSjCFZ3KJDXDY/preview)
+    - [BTVN] Bài 2: Biểu thức chứa căn bậc hai (Video 1-10) (YouTube: https://www.youtube.com/watch?v=M78vifV-7Sc)
+    - Bài 3: Rút gọn và tính giá trị biểu thức [1-8] (YouTube: https://www.youtube.com/watch?v=cQPbCcYBfcI)
+    - Bài 3: Rút gọn và tính giá trị biểu thức [11-17] (YouTube: https://www.youtube.com/watch?v=LMpuS__oZkM)
+    - Bài 4.1: Giải phương trình vô tỉ cơ bản (YouTube: https://www.youtube.com/watch?v=oXqymzAGrho)
+    - Bài 4.2: Bất phương trình (YouTube: https://www.youtube.com/watch?v=PAqw_hU8a4Q)
+    - Bài 4.3: So sánh (YouTube: https://www.youtube.com/watch?v=25xoA0XqatQ)
+    - [BTVN] Bài 4: Phương trình, bất phương trình, so sánh (Tài liệu: https://drive.google.com/file/d/1JS3Q-dcfARlBG9nhLsuDZJGWPs8T3GM-/preview)
+    - Bài 5: Tìm GTLN, GTNN (YouTube: https://www.youtube.com/watch?v=-n2dwmaq_xg)
+    - [BTVN] Bài 5: Tìm GTLN, GTNN (Tài liệu: https://drive.google.com/file/d/1XY5_GbYYOIzplR2ye0fkAig7krdJUCTk/preview)
+    - Bài 6.1: Tìm x để biểu thức nhận giá trị nguyên (YouTube: https://www.youtube.com/watch?v=G3Mh2kPnNhc)
+    - Bài 6.2: Bài toán có tham số m (YouTube: https://www.youtube.com/watch?v=NiM8m_Bl4fE)
+    - [BTVN] Bài 6: Biểu thức nguyên, tham số  (Tài liệu: https://drive.google.com/file/d/1_6GjkX1s5N7ho9Di49Zfp-MJ1No4RYUr/preview)
+  --- CHƯƠNG 3: PHƯƠNG TRÌNH VÔ TỈ ---
+    - Bài 1: Phương pháp nâng lên lũy thừa (YouTube: https://www.youtube.com/watch?v=S565TSlFunk)
+    - [BTVN] Bài 1: Phương pháp nâng lên lũy thừa (Tài liệu: https://drive.google.com/file/d/18l9J8gO2w8e3bI_OXNX3LI2v1tmcTn5n/preview)
+    - Bài 2: Phương pháp liên hợp (YouTube: https://www.youtube.com/watch?v=JwLGMiC-B0c)
+    - [BTVN] Bài 2: Phương pháp liên hợp (Tài liệu: https://drive.google.com/file/d/19OCXOWdpqevSER6JKpe7eCmsa0ic83Uf/preview)
+    - Bài 3: Phương pháp đặt ẩn phụ (phần 1) (YouTube: https://www.youtube.com/watch?v=RXphb2sG8Dk)
+    - [BTVN] Bài 3: Phương pháp đặt ẩn phụ (phần 1) (Tài liệu: https://drive.google.com/file/d/1hv1rFVT_M8eikMfQp2jnskUTAW1s3i-_/preview)
+    - Bài 4: Phương pháp đặt ẩn phụ (phần 2) (YouTube: https://www.youtube.com/watch?v=YoNbgSbfhGY)
+    - [BTVN] Bài 4: Phương pháp đặt ẩn phụ (phần 2) (Tài liệu: https://drive.google.com/file/d/1aJWd5scJYiAZth1okoVVy3jRiuCQRxgY/preview)
+    - Bài 5: Phương pháp đánh giá (YouTube: https://www.youtube.com/watch?v=eT3LUgcwj5s)
+    - [BTVN] Bài 5: Phương pháp đánh giá (Tài liệu: https://drive.google.com/file/d/1IVw6jC2RRwxLHzBs_fWq1nIh7RT1M9MX/preview)
+  --- CHƯƠNG 4: HỆ PHƯƠNG TRÌNH ---
+    - Bài 1: Hệ đối xứng (Tài liệu: https://iframe.mediadelivery.net/embed/592871/5ae0b654-24a8-4fe8-a5d0-dd2c926294df)
+    - [BTVN] Bài 1: Hệ đối xứng (Tài liệu: https://drive.google.com/file/d/1GYB8We3xKU743JIkbMZonhKX4lSRDUSt/preview)
+    - Bài 2: Hệ đẳng cấp, hệ 3 ẩn (Tài liệu: https://iframe.mediadelivery.net/embed/592871/a9bde0d1-ae84-4428-9ec5-da9c55918797)
+    - [BTVN] Bài 2: Hệ đẳng cấp, hệ 3 ẩn (Tài liệu: https://drive.google.com/file/d/1AOdXL4hzYLt5AJzzjfj4AnDfA1IGkAJX/preview)
+    - Bài 3: Phương pháp biến đổi tương đương (Tài liệu: https://iframe.mediadelivery.net/embed/592871/316908da-63c0-4897-8575-0afb78f150b6)
+    - [BTVN] Bài 3: Phương pháp biến đổi tương đương (Tài liệu: https://drive.google.com/file/d/1x-MwLxm6P5qJ4f3ymtWW4YMzX2yAtph8/preview)
+    - Bài 4: Phương pháp đặt ẩn phụ (Tài liệu: https://iframe.mediadelivery.net/embed/592871/d270e6e0-a350-401b-aa56-05ca87e6f11d)
+    - [BTVN] Bài 4: Phương pháp đặt ẩn phụ (Tài liệu: https://drive.google.com/file/d/1gtY6nATYDI8HaSeH5IueBySX32xlrfOL/preview)
+    - Bài 5: Đặt ẩn phụ đưa về hệ phương trình (YouTube: https://www.youtube.com/watch?v=9BZH6omGSXQ)
+  --- CHƯƠNG 5: BẤT ĐẲNG THỨC ---
+    - [Bổ trợ] Phương pháp biến đổi tương đương, bổ đề quan trọng (YouTube: https://www.youtube.com/watch?v=EoDAzsJKMKs)
+    - [Bổ trợ] Các bất đẳng thức cổ điển (YouTube: https://www.youtube.com/watch?v=W3CHLkWwEr4)
+    - [Bổ trợ] Kỹ thuật chọn điểm rơi (YouTube: https://www.youtube.com/watch?v=u5247SXQDpM)
+    - [Bổ trợ] Kỹ thuật chọn điểm rơi (Live chữa bài tập) (YouTube: https://www.youtube.com/watch?v=vwJEfB3Lmtk)
+    - Bài 1: Kỹ thuật đánh giá từ AM sang GM (Tài liệu: https://iframe.mediadelivery.net/embed/579455/6f9fcb4f-bfe9-4796-9cd1-d20894223fee)
+    - [BTVN] Bài 1: Kỹ thuật đánh giá từ AM sang GM (Tài liệu: https://drive.google.com/file/d/1gZATGZcjTH2BpblQrKXT1Ph25oo_P-3D/preview)
+    - Bài 2: Kỹ thuật đánh giá từ GM sang AM (Tài liệu: https://iframe.mediadelivery.net/embed/579455/6515e938-cfce-49cf-b947-8ef3ebc2e927)
+    - [BTVN] Bài 2: Kỹ thuật đánh giá từ GM sang AM (Tài liệu: https://drive.google.com/file/d/1YsMBvX-nt7angkLQEXIyskrMB-k60ans/preview)
+    - Bài 3: Kỹ thuật chọn điểm rơi (Tài liệu: https://iframe.mediadelivery.net/embed/579455/bfa4b3d5-703b-4a32-bdb8-01b764ae8728)
+    - [BTVN] Bài 3: Kỹ thuật chọn điểm rơi (Tài liệu: https://drive.google.com/file/d/1bki4fX2Tk_aTEC4qj23Wy9T1nhexE7La/preview)
+    - Bài 4: Kỹ thuật ghép cặp, thêm bớt (Tài liệu: https://iframe.mediadelivery.net/embed/579455/a5498dfc-448b-4475-89ba-f4ca1d62511a)
+    - [BTVN] Bài 4: Kỹ thuật ghép cặp, thêm bớt (Tài liệu: https://drive.google.com/file/d/1IQMZyvPGPoqgz1-yKckw_MjfJJXAYbol/preview)
+    - Bài 5: Kỹ thuật Cauchy ngược dấu (Tài liệu: https://iframe.mediadelivery.net/embed/579455/c9b58aff-4bac-464d-8542-1dd328198cbd)
+    - [BTVN] Bài 5: Kỹ thuật Cauchy ngược dấu (Tài liệu: https://drive.google.com/file/d/1gbi8wGOp8b9UCDnPMfb2jq_gvJJhoS7W/preview)
+    - Bài 6: Kỹ thuật Cauchy cộng mẫu (Tài liệu: https://iframe.mediadelivery.net/embed/579455/3464674c-8dc8-4829-a408-ed1cdf13d39e)
+    - [BTVN] Bài 6: Kỹ thuật Cauchy cộng mẫu (Tài liệu: https://drive.google.com/file/d/1QP_tgRRMLMCokCBS6sUpUJ6ilAiN5_By/preview)
+    - Bài 7: Bất đẳng thức Cauchy-Schwarz (Tài liệu: https://iframe.mediadelivery.net/embed/579455/0821a65c-c00e-4961-865d-5b6c8e6a59e1)
+    - [BTVN] Bài 7: Bất đẳng thức Cauchy-Schwarz (Tài liệu: https://drive.google.com/file/d/1Uv5rw5nnN-arPesYuMwgLFPak4ch1t-8/preview)
+    - Bài 8: Bất đẳng thức Schwarz (Tài liệu: https://iframe.mediadelivery.net/embed/579455/d13f8d41-2b71-4458-95ca-cb61fc06cba2)
+    - [BTVN] Bài 8: Bất đẳng thức Schwarz (Tài liệu: https://drive.google.com/file/d/1ilqMwSJWxII5ZXCx-d2Iyt3L-8W1KDyl/preview)
+    - Bài 9: Bất đẳng thức Minkowski, Schur và ứng dụng (Tài liệu: https://iframe.mediadelivery.net/embed/579455/397cd71f-1987-4966-9f22-a06e2b79a520)
+    - [BTVN] Bài 9: Bất đẳng thức Minkowski, Schur và ứng dụng (Tài liệu: https://drive.google.com/file/d/15fRqeaAAkUp3i8gIYxiwTUOs6wIRVDzL/preview)
+    - Bài 10: Bất đẳng thức với biến bị chặn (Tài liệu: https://iframe.mediadelivery.net/embed/579455/2fd9a710-842b-4abd-abe8-62ae0559b54a)
+    - [BTVN] Bài 10: Bất đẳng thức với biến bị chặn (Tài liệu: https://drive.google.com/file/d/13tTOkc0vpzL9tQliIwa_shh_Fo9QOJte/preview)
+    - Bài 11: Kỹ thuật hệ số bất định (U.C.T) (Tài liệu: https://iframe.mediadelivery.net/embed/579455/ef321546-b5b3-4fde-bf7f-8ffc1955eb21)
+    - [BTVN] Bài 11: Kỹ thuật hệ số bất định (U.C.T) (Tài liệu: https://drive.google.com/file/d/1mKMhTSjdMTh08su9hcVGgoHx8EjAfriD/preview)
+    - Bài 12: Phương pháp đổi biến (YouTube: https://www.youtube.com/watch?v=RYUvmiwBjAA)
+    - [BTVN] Bài 12: Phương pháp đổi biến (Tài liệu: https://drive.google.com/file/d/1zvk0G3vbuqeomTg_VaKHGxZIu-H4gvNR/preview)
+    - Bài 13: Phương pháp nhóm Abel (Tài liệu: https://iframe.mediadelivery.net/embed/579455/b1b9bf11-5410-49b4-b078-fb6112512c00)
+    - [BTVN] Bài 13: Phương pháp nhóm Abel (YouTube: https://www.youtube.com/watch?v=-nBg1a-3hgs)
+    - Bài 14: S.O.S và phương pháp miền giá trị (Tài liệu: https://iframe.mediadelivery.net/embed/579455/c6e49b3d-94f3-432e-a2e9-175c3a806a92)
+    - [BTVN] Bài 14: S.O.S và phương pháp miền giá trị (Tài liệu: https://drive.google.com/file/d/1Ss_1k-9sbva9xier36jCyuoVdDgjMcCj/preview)
+    - Bài 15: Một số phương pháp khác (Tài liệu: https://iframe.mediadelivery.net/embed/579455/cb095708-43fa-4309-ade4-7ed1e7c7e0d8)
+    - [BTVN} Bài 15: Một số phương pháp khác (Tài liệu: https://drive.google.com/file/d/1fE83KSYP7AmhtCsPjNg9s4aL5Q261279/preview)
+    - [Tổng hợp] Bất đẳng thức trong kì thi Chuyên toán (YouTube: https://www.youtube.com/watch?v=KQOYJ-7dUIM)
+    - [Tổng hợp] Bất đẳng thức trong kì thi Chuyên toán (YouTube: https://www.youtube.com/watch?v=h2ISdGysrvU)
+    - [Tổng hợp] Bất đẳng thức trong kì thi Chuyên toán (YouTube: https://www.youtube.com/watch?v=0jooopN53lk)
+    - [Tổng hợp] Bất đẳng thức trong kì thi Chuyên toán (YouTube: https://www.youtube.com/watch?v=6RLbqVQFTrk)
+  --- CHƯƠNG 6: HÀM SỐ VÀ ĐỒ THỊ ---
+    - Bài 1: Hàm số bậc nhất y = ax + b (a # 0) (YouTube: https://www.youtube.com/watch?v=xwxsxjs_6aw)
+    - [BTVN] Bài 1: Hàm số bậc nhất y = ax + b (a # \0) (Tài liệu: https://drive.google.com/file/d/1ixEpNyYxVC1rxAFG1QCI0h75ZS4zGLHr/preview)
+    - Bài 2: Hàm số bậc hai y = ax^2 (a # 0)  (YouTube: https://www.youtube.com/watch?v=DTeRTfoK5dk)
+    - [BTVN] Bài 2: Hàm số bậc hai y = ax^2 (a # 0)  (Tài liệu: https://drive.google.com/file/d/1R0MJCfICCHm2ErP7pWzJuzDjbV0LFmdd/preview)
+    - Bài 3: Phương trình bậc hai ax^2 + bx + c = 0 (a # 0) (YouTube: https://www.youtube.com/watch?v=g24hTawb1po)
+    - [BTVN] Bài 3: Phương trình bậc hai ax^2 + bx + c = 0 (a # 0) (Tài liệu: https://drive.google.com/file/d/1tU1SJF0s2aPg3QOMHtAD1Vz05N7YPAT5/preview)
+    - Bài 4: Định lí Viet và ứng dụng (YouTube: https://www.youtube.com/watch?v=_dwEpdooE4o)
+    - [BTVN] Bài 4: Định lí Viet và ứng dụng (Tài liệu: https://drive.google.com/file/d/11pIQoESh7geYunKJ76s_6Rpfu6VADRvy/preview)
+    - Bài 5: Bài toán về nghiệm của phương trình bậc hai (YouTube: https://www.youtube.com/watch?v=NTU_AxZ7wYA)
+    - [BTVN] Bài 5: Bài toán về nghiệm của phương trình bậc hai (Tài liệu: https://drive.google.com/file/d/1JkqFPyN1EgfTTlDtKvpGoC4tXkoTc7b5/preview)
+    - Bài 6: Tương giao giữa đường thẳng và parabol (YouTube: https://www.youtube.com/watch?v=8FXdh5DYMvg)
+    - [BTVN] Bài 6: Tương giao giữa đường thẳng và parabol (Tài liệu: https://drive.google.com/file/d/1Hbk5NvWukBnXeRpsT-YttkOx0cf1L2ML/preview)
+== Hình học ==
+  --- CHƯƠNG 1: HỆ THỨC LƯỢNG TRONG TAM GIÁC VUÔNG ---
+    - Bài 1: Tỉ số đoạn thẳng (YouTube: https://www.youtube.com/watch?v=pSD8nXXDnVg)
+    - [BTVN] Bài 1: Tỉ số đoạn thẳng (YouTube: https://www.youtube.com/watch?v=SiR7C00tThc)
+    - Bài 2: Hệ thức lượng trong tam giác vuông (YouTube: https://www.youtube.com/watch?v=bvRwq7FRHIk)
+    - [BTVN] Bài 2: Hệ thức lượng trong tam giác vuông (Video) (YouTube: https://www.youtube.com/watch?v=-SrYbILhPck)
+    - [BTVN] Bài 2: Hệ thức lượng trong tam giác vuông (Tài liệu: https://drive.google.com/file/d/14OW1sQ0unpiRMuVQMFeZXpVNqTw3mJOS/preview)
+    - Bài 3: Tỉ số lượng giác của góc nhọn (YouTube: https://www.youtube.com/watch?v=42XEe8REBQg)
+    - [BTVN] Bài 3: Tỉ số lượng giác của góc nhọn (Video) (YouTube: https://www.youtube.com/watch?v=PmjZeGkiiTw)
+    - [BTVN] Bài 3: Tỉ số lượng giác của góc nhọn (Tài liệu: https://drive.google.com/file/d/1FpnkVXGqiKjyOcwRiYZPFGfJN3G1qKhw/preview)
+    - Bài 4: Kĩ thuật tam giác đồng dạng (YouTube: https://www.youtube.com/watch?v=mzgyXzjoeOU)
+    - [BTVN] Bài 4: Kĩ thuật tam giác đồng dạng (Tài liệu: https://drive.google.com/file/d/1dQXAnHO7LXwCmVpNMDWMIRvCAI0cdGMo/preview)
+    - Bài 5: Chứng minh đẳng thức hình học (phần 1) (YouTube: https://www.youtube.com/watch?v=bVR967WdoUs)
+    - Bài 5: Chứng minh đẳng thức hình học (phần 2) (YouTube: https://www.youtube.com/watch?v=SvNmv7xFy-A)
+    - [BTVN] Bài 5: Chứng minh đẳng thức hình học (Tài liệu: https://drive.google.com/file/d/1Bgo1FRMPt_-Lpf1-bSfbb4vLwxJESnTa/preview)
+    - Bài 6: Bất đẳng thức và cực trị hình học (YouTube: https://www.youtube.com/watch?v=1h6p_92vgmE)
+    - [BTVN] Bài 6: Bất đẳng thức và cực trị hình học (Tài liệu: https://drive.google.com/file/d/1qvetFoHYwU9FJjdmzZaUU8HSwqtgxHZ5/preview)
+  --- CHƯƠNG 2: ĐƯỜNG TRÒN - TIẾP TUYẾN ---
+    - Bài 1: Đường tròn (Tài liệu: https://iframe.mediadelivery.net/embed/597493/415069d8-dc03-458a-9134-a29afeb650f1)
+    - [BTVN] Bài 1: Đường tròn (Tài liệu: https://drive.google.com/file/d/1BhN4HjC8HNP7R6xFA-IV3pFftFOyAmcf/preview)
+    - Bài 2: Tiếp tuyến (Tài liệu: https://iframe.mediadelivery.net/embed/597493/2ef01721-0ed4-42d1-92fa-dd8a4deaa913)
+    - [BTVN] Bài 2: Tiếp tuyến (Tài liệu: https://drive.google.com/file/d/1kBDvBnSG_Iu5ACX0PclsRsay5V50GaD4/preview)
+    - Bài 3: Mô hình tiếp tuyến, cát tuyến (Tài liệu: https://iframe.mediadelivery.net/embed/597493/80e305b3-edc4-4df1-9707-8d38d714fe70)
+    - [BTVN] Bài 3: Mô hình tiếp tuyến, cát tuyến (Tài liệu: https://drive.google.com/file/d/1Ef-kgPK73lnlrVatyanXqd6udMe_ZZiU/preview)
+    - Bài 4: Mô hình tâm nội tiếp, bàng tiếp (Tài liệu: https://iframe.mediadelivery.net/embed/597493/70ddaa45-0bd1-4a4d-a2f6-440463e2604f)
+    - [BTVN] Bài 4: Mô hình tâm nội tiếp, bàng tiếp (Tài liệu: https://drive.google.com/file/d/1WfWK90rcQBMuQTMa7o0fY2zd0fEnsHt-/preview)
+    - Bài 5: Mô hình trực tâm (Tài liệu: https://iframe.mediadelivery.net/embed/597493/2448f5f5-0455-4d6a-9927-2262f53303e1)
+    - [BTVN] Bài 5: Mô hình trực tâm (Tài liệu: https://drive.google.com/file/d/190Ub3kYWvYp4scYQvcS_mbLNBr1TYR83/preview)
+    - Bài 6: Mô hình hai đường tròn (Tài liệu: https://iframe.mediadelivery.net/embed/597493/2b4241df-ba72-4872-a747-8a6067e03b22)
+    - [BTVN] Bài 6: Mô hình hai đường tròn (Tài liệu: https://drive.google.com/file/d/11jJZDbdqW5U20RlPjv-1Xml26XQt9Gs3/preview)
+  --- CHƯƠNG 3: TỨ GIÁC NỘI TIẾP ---
+    - Bài 1: Liên hệ giữa đường kính và dây - Góc nội tiếp (Tài liệu: https://iframe.mediadelivery.net/embed/592863/1b6f79bd-1a24-434a-8c0c-bd1de59e861a)
+    - [BTVN] Bài 1: Liên hệ giữa đường kính và dây - Góc nội tiếp (phần 1) (YouTube: https://www.youtube.com/watch?v=g03O_XGexvU)
+    - [BTVN] Bài 1: Liên hệ giữa đường kính và dây - Góc nội tiếp (phần 2) (YouTube: https://www.youtube.com/watch?v=Xn9hKTqeZaM)
+    - [BTVN] Bài 1: Liên hệ giữa đường kính và dây - Góc nội tiếp (phần 3) (YouTube: https://www.youtube.com/watch?v=bSew_AFeeWA)
+    - Bài 2: Góc tạo bởi tiếp tuyến và cát tuyến (Tài liệu: https://iframe.mediadelivery.net/embed/592863/def89194-081f-4270-ba94-a422b13205e6)
+    - [BTVN] Bài 2: Góc tạo bởi tiếp tuyến và cát tuyến (phần 1) (YouTube: https://www.youtube.com/watch?v=0mVBNiTu0H0)
+    - [BTVN] Bài 2: Góc tạo bởi tiếp tuyến và cát tuyến (phần 2) (YouTube: https://www.youtube.com/watch?v=G74qk9VXylA)
+    - Bài 3: Tứ giác nội tiếp - Tiêu chuẩn 1 (Tài liệu: https://iframe.mediadelivery.net/embed/592863/75129d1a-ca05-4eaf-b3cf-b1e76fc6436b)
+    - [BTVN] Bài 3: Tứ giác nội tiếp - Tiêu chuẩn 1 (YouTube: https://www.youtube.com/watch?v=qDu_QfuDqZw)
+    - [BTVN] Bài 3: Tứ giác nội tiếp - Tiêu chuẩn 1 (YouTube: https://www.youtube.com/watch?v=Jo3ORs6RO8g)
+    - Bài 4: Tứ giác nội tiếp - Tiêu chuẩn 2 (Tài liệu: https://iframe.mediadelivery.net/embed/592863/f5dd404f-0571-4aa2-9eb4-b6c8fea40003)
+    - [BTVN] Bài 4: Tứ giác nội tiếp - Tiêu chuẩn 2 (YouTube: https://www.youtube.com/watch?v=MVGD954ERrk)
+    - Bài 5: Tứ giác nội tiếp - Tiêu chuẩn 3 (Tài liệu: https://iframe.mediadelivery.net/embed/592863/33ae5232-59a6-4eaa-b2f8-c36843a91027)
+    - [BTVN] Bài 5: Tứ giác nội tiếp - Tiêu chuẩn 3 (Tài liệu: https://drive.google.com/file/d/1XZzVvFFA5-SuKcUDVfF37xBuJXGH-S4l/preview)
+    - Bài 6: Tổng ôn tứ giác nội tiếp (câu 1-5) (YouTube: https://www.youtube.com/watch?v=RbiYS67ZpLE)
+    - Bài 6: Tổng ôn tứ giác nội tiếp (câu 6-10) (YouTube: https://www.youtube.com/watch?v=aCw_y-wDcSo)
+    - [BTVN] Bài 6: Câu 1 đến 5 (YouTube: https://www.youtube.com/watch?v=Jr6wLCmIer4)
+    - Bài 7: Diện tích, thể tích (YouTube: https://www.youtube.com/watch?v=yIQ_PXb6UeI)
+    - [BTVN] Bài 7: Diện tích, thể tích (Tài liệu: https://drive.google.com/file/d/1c_u3Y7CDHHiERtGaIM-T0mz25pCZKlwo/preview)
+  --- CHƯƠNG 4: MÔ HÌNH QUAN TRỌNG ---
+    - Bài 1: Mô hình tiếp tuyến, cát tuyến (Tài liệu: https://iframe.mediadelivery.net/embed/580842/2eed6cf3-8466-498e-87df-4281cf64e22a)
+    - [BTVN] Bài 1.1: Mô hình tiếp tuyến, cát tuyến [1-6] (YouTube: https://www.youtube.com/watch?v=tY4hBPRxY5U)
+    - [BTVN] Bài 1.2: Mô hình tiếp tuyến, cát tuyến [7-12] (YouTube: https://www.youtube.com/watch?v=MQkTQQ_jjV0)
+    - Bài 2: Mô hình tứ giác điều hòa (Tài liệu: https://iframe.mediadelivery.net/embed/580842/9df2e52f-b6df-4949-aabb-9ecfc6f09453)
+    - [BTVN] Bài 2: Mô hình tứ giác điều hòa (Tài liệu: https://drive.google.com/file/d/1D-vD4fgqiJTABYrTyyYQR6F959r7oPtG/preview)
+    - Bài 3: Mô hình trực tâm - Đường tròn ngoại tiếp (Tài liệu: https://iframe.mediadelivery.net/embed/580842/802ccd26-4b45-4e2d-9c56-bb877012d36c)
+    - [BTVN] Bài 3.1: Mô hình trực tâm - Đường tròn ngoại tiếp (YouTube: https://www.youtube.com/watch?v=f2NYdRCN4io)
+    - [BTVN] Bài 3.2: Mô hình trực tâm - Đường tròn ngoại tiếp (YouTube: https://www.youtube.com/watch?v=v7l7JN4yyn8)
+    - Bài 4: Mô hình tâm nội tiếp, bàng tiếp (Tài liệu: https://iframe.mediadelivery.net/embed/580842/418e9889-4021-40cb-925c-226280cd2469)
+    - [BTVN] Bài 4: Mô hình tâm nội tiếp, bàng tiếp (YouTube: https://www.youtube.com/watch?v=Ybsvskp5gkk)
+    - Bài 5.1: Một số bài toán đặc biệt (YouTube: https://www.youtube.com/watch?v=oiecTAcWm70)
+    - Bài 5.2: Một số bài toán đặc biệt (YouTube: https://www.youtube.com/watch?v=pUtZ6VaBlJM)
+  --- CHƯƠNG 5: KỸ THUẬT CHỨNG MINH HÌNH HỌC ---
+    - Bài 1.1: Kỹ thuật chứng minh thẳng hàng (Tài liệu: https://iframe.mediadelivery.net/embed/593344/29867279-43bb-4ec6-b239-edd06e1bb09a)
+    - [BTVN] Bài 1.1: Kỹ thuật chứng minh thẳng hàng (YouTube: https://www.youtube.com/watch?v=99qIucAoscM)
+    - Bài 1.2: Kỹ thuật chứng minh thẳng hàng (Tài liệu: https://iframe.mediadelivery.net/embed/593344/0f95c21f-ed0a-490b-aa60-2daa5028423c)
+    - [BTVN] Bài 1.2: Kỹ thuật chứng minh thẳng hàng (YouTube: https://www.youtube.com/watch?v=wf8xT7zwRAc)
+    - Bài 2.1: Kỹ thuật chứng minh đồng quy (Tài liệu: https://iframe.mediadelivery.net/embed/593344/a693cb46-1b62-4b50-8add-057d5bab7a62)
+    - [BTVN] Bài 2: Kỹ thuật chứng minh đồng quy (YouTube: https://www.youtube.com/watch?v=cfjE8PmJZaQ)
+    - Bài 3: Điểm cố định (Tài liệu: https://iframe.mediadelivery.net/embed/593344/4d313679-128b-4bb4-a7c1-231711e05e9f)
+    - [BTVN] Bài 3: Điểm cố định (YouTube: https://www.youtube.com/watch?v=Cj8DQJFPJXA)
+    - Bài 4: Đường cố định (Tài liệu: https://iframe.mediadelivery.net/embed/593344/f7f387d6-de13-4eb0-976c-80d4b2175bfa)
+    - [BTVN] Bài 4: Đường cố định (YouTube: https://www.youtube.com/watch?v=Y_C1ENN90tI)
+    - Bài 5: Bất đẳng thức và cực trị hình học (YouTube: https://www.youtube.com/watch?v=1tst5TH2J_4)
+    - Bài 6: Kỹ thuật biến đổi góc (YouTube: https://www.youtube.com/watch?v=SBfVPc8G-AE)
+== Số học ==
+  --- CHƯƠNG 7: PHƯƠNG TRÌNH NGHIỆM NGUYÊN ---
+    - Bài 1: Phương pháp xét tính chia hết (YouTube: https://www.youtube.com/watch?v=4ADvzNLcXT0)
+    - [BTVN] Bài 1: Phương pháp xét tính chia hết (Tài liệu: https://drive.google.com/file/d/1FQ_UWqP6l1ndUmh2czXj19SE2pfhKaS6/preview)
+    - Bài 2: Phương pháp đánh giá (YouTube: https://www.youtube.com/watch?v=O_XEh3lkebs)
+    - [BTVN] Bài 2: Phương pháp đánh giá (Tài liệu: https://drive.google.com/file/d/1FywQBkUxfw10yc93IsiwUMgnzcG6pA2e/preview)
+    - Bài 3: Phương pháp sử dụng tính chất của số chính phương (YouTube: https://www.youtube.com/watch?v=Q92qN3TTC6Y)
+    - [BTVN] Bài 3: Phương pháp sử dụng tính chất của số chính phương (Tài liệu: https://drive.google.com/file/d/1AIBoy5giU1ZP0deTB9LaGx7tdkvz331u/preview)
+    - Bài 4: Phương trình hai ẩn bậc cao (YouTube: https://www.youtube.com/watch?v=OhLt9arG4i8)
+    - [BTVN] Bài 4: Phương trình hai ẩn bậc cao (Tài liệu: https://drive.google.com/file/d/1XBnDq13Tjpn9B9Ur8rnL4O57oFchSlHw/preview)
+    - Bài 5: Phương trình ba ẩn, phân thức, mũ, vô tỉ (YouTube: https://www.youtube.com/watch?v=Mb8bWPST2xs)
+    - [BTVN] Bài 5: Phương trình ba ẩn, mũ, phân thức, căn thức (Tài liệu: https://drive.google.com/file/d/1EuHXWc9MD678KiDRjfTT1aJNYxVau_yV/preview)
+  --- CHƯƠNG 8: SỐ HỌC ---
+    - Bài 1: Phương pháp chứng minh bài toán chia hết (YouTube: https://www.youtube.com/watch?v=ccSTkjzqz-c)
+    - [BTVN] Bài 1: Phương pháp chứng minh bài toán chia hết (YouTube: https://www.youtube.com/watch?v=x8XSSoimMH4)
+    - Bài 2: Các bài toán về phép chia hết (YouTube: https://www.youtube.com/watch?v=LBOh3IGH8hc)
+    - [BTVN] Bài 2: Các bài toán về phép chia hết (YouTube: https://www.youtube.com/watch?v=Kp8T7SPBOvo)
+    - Bài 3: Số nguyên tố, hợp số (YouTube: https://www.youtube.com/watch?v=nvrqNezMRiU)
+    - [BTVN] Bài 3: Số nguyên tố, hợp số (YouTube: https://www.youtube.com/watch?v=eWAJJl0e_TY)
+    - Bài 4: Số chính phương (YouTube: https://www.youtube.com/watch?v=d-wxDOLgZO8)
+    - [BTVN] Bài 4: Số chính phương (YouTube: https://www.youtube.com/watch?v=Ub6T021yOto)
+    - Bài 5: Đồng dư (YouTube: https://www.youtube.com/watch?v=-D0rm0q1ass)
+    - [BTVN] Bài 5: Đồng dư (YouTube: https://www.youtube.com/watch?v=EouoIHdqpCE)
+    - Bài 6: Ứng dụng của đồng dư [1-10] (YouTube: https://www.youtube.com/watch?v=GuA-tkaenac)
+    - Bài 6: Ứng dụng của đồng dư [11-15] (YouTube: https://www.youtube.com/watch?v=qIx35DaEx8I)
+    - Bài 7: Ôn tập số học buổi 1 [1-5] (YouTube: https://www.youtube.com/watch?v=TQLO2fCTiVY)
+    - Bài 7: Ôn tập số học buổi 1 [6-10] (YouTube: https://www.youtube.com/watch?v=o691Gj5tNLM)
+    - Bài 8: Ôn tập số học buổi 2 [1-7] (YouTube: https://www.youtube.com/watch?v=T4zzce3MWd0)
+  --- CHƯƠNG 9: ĐẠI SỐ TỔ HỢP - XÁC SUẤT ---
+    - Bài 1: Hai quy tắc đếm cộng và nhân (YouTube: https://www.youtube.com/watch?v=hfBEMKwnOVM)
+    - [BTVN] Bài 1: Hai quy tắc đếm cộng và nhân (Tài liệu: https://azota.vn/de-thi/cevgvr)
+    - Bài 2: Hoán vị - Chỉnh hợp - Tổ hợp (YouTube: https://www.youtube.com/watch?v=lr0i14VDYB0)
+    - [BTVN] Bài 2: Hoán vị - Chỉnh hợp - Tổ hợp (Tài liệu: https://azota.vn/de-thi/yz9sva)
+    - Bài 3: Xác suất (YouTube: https://www.youtube.com/watch?v=UaYasTchtwo)
+    - [BTVN] Bài 3: Xác suất (Tài liệu: https://azota.vn/de-thi/mzsaoy)
+    - Bài 4: Nguyên lí bù trừ (YouTube: https://www.youtube.com/watch?v=xmExoYMz77E)
+    - [BTVN] Bài 4: Nguyên lí bù trừ (Tài liệu: https://drive.google.com/file/d/1AWqPvmI7NYdasuLk9vuAZ5rH-KQrGPWE/preview)
+  --- CHƯƠNG 10: TOÁN RỜI RẠC - SUY LUẬN ---
+    - Bài 1: Nguyên lí Dirichlet trong số học (YouTube: https://www.youtube.com/watch?v=jggpzhBMd0E)
+    - [BTVN] Bài 1: Nguyên lí Dirichlet trong số học (Tài liệu: https://drive.google.com/file/d/15ta6hehM2ozk4_rVwV7w8CfesZ2zut3X/preview)
+    - Bài 2: Nguyên lí Dirichlet trong hình học (YouTube: https://www.youtube.com/watch?v=u-fUGAoVhkI)
+    - [BTVN] Bài 2: Nguyên lí Dirichlet trong hình học (Tài liệu: https://drive.google.com/file/d/1JDWsI_mioRVEvlNjSX-iOdthqdZ5oinx/preview)
+    - Bài 3: Nguyên lí cực hạn (YouTube: https://www.youtube.com/watch?v=WrdwHRiqmZc)
+    - [BTVN] Bài 3: Nguyên lí cực hạn (Tài liệu: https://drive.google.com/file/d/1255RWNrUcx68r30eXMqcl6BVolDyVeZ4/preview)
+    - Bài 4: Nguyên lí bất biến (YouTube: https://www.youtube.com/watch?v=dZMg880Emrc)
+    - [BTVN] Bài 4: Nguyên lí bất biến (Tài liệu: https://drive.google.com/file/d/1Okg--HFD9vH-yigtd_Hadyv0qHCGdMpK/preview)
+  --- BIẾN ĐỔI ĐỒNG NHẤT ---
+    - Biến đổi đồng nhất (phần 1) (YouTube: https://www.youtube.com/watch?v=XxRZWFMoIRk)
+    - Biến đổi đồng nhất (phần 2) (YouTube: https://www.youtube.com/watch?v=JqWRxNIDDv4)
+  --- ĐA THỨC ---
+    - Bài 1: Tính chất chia hết của đa thức (YouTube: https://www.youtube.com/watch?v=vmEg0afEhnU)
+    - Bài 3: Tìm đa thức chưa biết (YouTube: https://www.youtube.com/watch?v=H-e3yiW1Mcc)
+    - [Live] Tổng hợp đa thức trong đề thi (YouTube: https://www.youtube.com/watch?v=YINQogFENvo)
+== Ôn tập ==
+  --- ÔN TẬP  ---
+    - Biến đổi đồng nhất (Tài liệu: https://drive.google.com/file/d/1eiKnAym5vrRNr-8iLIAlXDqwABz0hiSJ/preview)
+    - [TÀI LIỆU] Phương trình và hệ phương trình (Tài liệu: https://drive.google.com/file/d/1LFUgbjZ6ZMJ9kjfHRODYR8cotpGF3PWn/preview)
+    - Phương trình và hệ phương trình (YouTube: https://www.youtube.com/watch?v=W50bzPF2k2Y)
+    - [TÀI LIỆU] Bất đẳng thức (Tài liệu: https://drive.google.com/file/d/1iTCA_GVVs8zMdv-DR6jSCHmVG-07PT-Q/preview)
+    - Ôn tập bất đăng thức [1-9] (YouTube: https://www.youtube.com/watch?v=P7HLoCYLoE0)
+    - Ôn tập bất đăng thức [10-20] (YouTube: https://www.youtube.com/watch?v=qaOBbu2Fwag)
+    - [TÀI LIỆU] Số học (Tài liệu: https://drive.google.com/file/d/1huyXbY2SIHVtief4pZDHPyC2TVLHOPWY/preview)
+    - A. Bài toán chia hết (YouTube: https://www.youtube.com/watch?v=VLXeU40k9-M)
+    - B. Số nguyên tố (YouTube: https://www.youtube.com/watch?v=Do_2TINdeB4)
+    - C. Số chính phương, lập phương (YouTube: https://www.youtube.com/watch?v=nj_4cw_z6E4)
+    - D. Phương trình nghiệm nguyên (YouTube: https://www.youtube.com/watch?v=3YUIbto6P0c)
+    - [TÀI LIỆU] Nguyên lí Dirichlet trong phân hoạch tập hợp (Tài liệu: https://drive.google.com/file/d/1NTF8wqT1vWwtOD5cOHwSo69znowRjHz6/preview)
+    - Nguyên lí Dirichlet trong phân hoạch tập hợp (YouTube: https://www.youtube.com/watch?v=Yq2OTyySjZI)
+    - [TÀI LIỆU] Đa thức (Tài liệu: https://drive.google.com/file/d/1M_OtJgse3EJi-KHFTiZk_jZV4uL8JT-D/preview)
+    - Đa thức (Tài liệu: https://iframe.mediadelivery.net/embed/607183/232c4dc7-c6d2-4681-8ab8-392c0f713c60)
+== Đề tinh hoa ==
+  --- ĐỀ TINH HOA ---
+    - Đề tinh hoa số 01 (YouTube: https://www.youtube.com/watch?v=LrG42s1uS5E)
+    - Đề tinh hoa số 02 (YouTube: https://www.youtube.com/watch?v=GxN9h-75xPE)
+    - Đề tinh hoa số 03 (YouTube: https://www.youtube.com/watch?v=T1h5l8G7emk)
+    - Đề tinh hoa số 04 (YouTube: https://www.youtube.com/watch?v=IssD1IlaHnk)
+    - Đề tinh hoa số 05 (YouTube: https://www.youtube.com/watch?v=EwBqkAyNqoU)
+    - Đề tinh hoa số 06 (YouTube: https://www.youtube.com/watch?v=0HqjRUO9xhc)
+== Tài liệu ==
+  --- ĐẠI SỐ ---
+    - Chương 1: Phương trình, bất phương trình và hệ phương trình (Tài liệu: https://drive.google.com/file/d/14xG7akcrxN0T0F0uBrPr3uZtKqDFwfE3/preview)
+    - Chương 2: Căn bậc hai, căn bậc ba (Tài liệu: https://drive.google.com/file/d/1FAV0sYTGIFU0xUYRJjJlIYrVmNstaUmN/preview)
+    - Chương 3: Phương trình vô tỉ (Tài liệu: https://drive.google.com/file/d/1AugxQ8RuiTFQKKnsBMQsema5NZk5wHQW/preview)
+    - Chương 4: Hệ phương trình (Tài liệu: https://drive.google.com/file/d/1Zm-GDayqXrdplFlvv9vH9rYEdjBZC7o4/preview)
+    - Chương 5: Bất đẳng thức (Tài liệu: https://drive.google.com/file/d/1s8uF4Wbzxf9Po8QusxV5oWaKPXR1EH1R/preview)
+    - Chương 6: Hàm số và đồ thị  (Tài liệu: https://drive.google.com/file/d/1qoqagwu2RV4QJlH5vCU9XvFXyE0RJ0Jw/preview)
+  --- SỐ HỌC ---
+    - Chương 7: Phương trình nghiệm nguyên (Tài liệu: https://drive.google.com/file/d/1DdE9oNzV0KKloDUCUTwo_CCuOQVTsA-E/preview)
+    - Chương 8: Số học (Tài liệu: https://drive.google.com/file/d/1H30xWROg7iTYss2D32V7Hp8u9dCjErmV/preview)
+    - Chương 9: Đại số tổ hợp - Xác suất (Tài liệu: https://drive.google.com/file/d/1KeBkaiV3LhIj30voRozS0kyczpe5QpLi/preview)
+    - Chương 10: Toán suy luận - Logic (Tài liệu: https://drive.google.com/file/d/10MBFYrmjOUWjAsJKQc8NbFjbPBv9n7r0/preview)
+  --- HÌNH HỌC ---
+    - Chương 1: Hệ thức lượng trong tam giác vuông (Tài liệu: https://drive.google.com/file/d/1DfbufOm2rqvMX6SbAAy3u_4wRghDaqzu/preview)
+    - Chương 2: Đường tròn, tiếp tuyến (Tài liệu: https://drive.google.com/file/d/1I5jrC0vxJhoQzz1YnMt8gPo59BK6aI4X/preview)
+    - Chương 3: Tứ giác nội tiếp (Tài liệu: https://drive.google.com/file/d/11j9gKQkO3vaPHOv014BUaqq29JuEkSyG/preview)
+    - Chương 4: Mô hình quan trọng (Tài liệu: https://drive.google.com/file/d/1oclH2FgxfCbKtRE4J0T8UqnUp83dl4L7/preview)
+    - Chương 5: Kỹ thuật chứng minh hình học (Tài liệu: https://drive.google.com/file/d/1PPg-iDhdCFdtFzWxXCywRw_V4EoJi8Sz/preview)
+
+
+===== DANH SÁCH YOUTUBE LINKS =====
+1. https://www.youtube.com/watch?v=TPWiZk80RR4
+2. https://www.youtube.com/watch?v=d1xpSC4sXHQ
+3. https://www.youtube.com/watch?v=l3PdjpxZmiU
+4. https://www.youtube.com/watch?v=t2ozCdL2F0s
+5. https://www.youtube.com/watch?v=nuaDjdeHZRY
+6. https://www.youtube.com/watch?v=k72hb1_zCF4
+7. https://www.youtube.com/watch?v=fhgwrf4XLHw
+8. https://www.youtube.com/watch?v=Mv8huih6twM
+9. https://www.youtube.com/watch?v=98mrUKuy1Ys
+10. https://www.youtube.com/watch?v=3BVVH7IFhdg
+11. https://www.youtube.com/watch?v=ZBvoGsLgAeM
+12. https://www.youtube.com/watch?v=dveB0Ixp0XQ
+13. https://www.youtube.com/watch?v=M78vifV-7Sc
+14. https://www.youtube.com/watch?v=cQPbCcYBfcI
+15. https://www.youtube.com/watch?v=LMpuS__oZkM
+16. https://www.youtube.com/watch?v=oXqymzAGrho
+17. https://www.youtube.com/watch?v=PAqw_hU8a4Q
+18. https://www.youtube.com/watch?v=25xoA0XqatQ
+19. https://www.youtube.com/watch?v=-n2dwmaq_xg
+20. https://www.youtube.com/watch?v=G3Mh2kPnNhc
+21. https://www.youtube.com/watch?v=NiM8m_Bl4fE
+22. https://www.youtube.com/watch?v=S565TSlFunk
+23. https://www.youtube.com/watch?v=JwLGMiC-B0c
+24. https://www.youtube.com/watch?v=RXphb2sG8Dk
+25. https://www.youtube.com/watch?v=YoNbgSbfhGY
+26. https://www.youtube.com/watch?v=eT3LUgcwj5s
+27. https://www.youtube.com/watch?v=9BZH6omGSXQ
+28. https://www.youtube.com/watch?v=EoDAzsJKMKs
+29. https://www.youtube.com/watch?v=W3CHLkWwEr4
+30. https://www.youtube.com/watch?v=u5247SXQDpM
+31. https://www.youtube.com/watch?v=vwJEfB3Lmtk
+32. https://www.youtube.com/watch?v=RYUvmiwBjAA
+33. https://www.youtube.com/watch?v=-nBg1a-3hgs
+34. https://www.youtube.com/watch?v=KQOYJ-7dUIM
+35. https://www.youtube.com/watch?v=h2ISdGysrvU
+36. https://www.youtube.com/watch?v=0jooopN53lk
+37. https://www.youtube.com/watch?v=6RLbqVQFTrk
+38. https://www.youtube.com/watch?v=xwxsxjs_6aw
+39. https://www.youtube.com/watch?v=DTeRTfoK5dk
+40. https://www.youtube.com/watch?v=g24hTawb1po
+41. https://www.youtube.com/watch?v=_dwEpdooE4o
+42. https://www.youtube.com/watch?v=NTU_AxZ7wYA
+43. https://www.youtube.com/watch?v=8FXdh5DYMvg
+44. https://www.youtube.com/watch?v=pSD8nXXDnVg
+45. https://www.youtube.com/watch?v=SiR7C00tThc
+46. https://www.youtube.com/watch?v=bvRwq7FRHIk
+47. https://www.youtube.com/watch?v=-SrYbILhPck
+48. https://www.youtube.com/watch?v=42XEe8REBQg
+49. https://www.youtube.com/watch?v=PmjZeGkiiTw
+50. https://www.youtube.com/watch?v=mzgyXzjoeOU
+51. https://www.youtube.com/watch?v=bVR967WdoUs
+52. https://www.youtube.com/watch?v=SvNmv7xFy-A
+53. https://www.youtube.com/watch?v=1h6p_92vgmE
+54. https://www.youtube.com/watch?v=g03O_XGexvU
+55. https://www.youtube.com/watch?v=Xn9hKTqeZaM
+56. https://www.youtube.com/watch?v=bSew_AFeeWA
+57. https://www.youtube.com/watch?v=0mVBNiTu0H0
+58. https://www.youtube.com/watch?v=G74qk9VXylA
+59. https://www.youtube.com/watch?v=qDu_QfuDqZw
+60. https://www.youtube.com/watch?v=Jo3ORs6RO8g
+61. https://www.youtube.com/watch?v=MVGD954ERrk
+62. https://www.youtube.com/watch?v=RbiYS67ZpLE
+63. https://www.youtube.com/watch?v=aCw_y-wDcSo
+64. https://www.youtube.com/watch?v=Jr6wLCmIer4
+65. https://www.youtube.com/watch?v=yIQ_PXb6UeI
+66. https://www.youtube.com/watch?v=tY4hBPRxY5U
+67. https://www.youtube.com/watch?v=MQkTQQ_jjV0
+68. https://www.youtube.com/watch?v=f2NYdRCN4io
+69. https://www.youtube.com/watch?v=v7l7JN4yyn8
+70. https://www.youtube.com/watch?v=Ybsvskp5gkk
+71. https://www.youtube.com/watch?v=oiecTAcWm70
+72. https://www.youtube.com/watch?v=pUtZ6VaBlJM
+73. https://www.youtube.com/watch?v=99qIucAoscM
+74. https://www.youtube.com/watch?v=wf8xT7zwRAc
+75. https://www.youtube.com/watch?v=cfjE8PmJZaQ
+76. https://www.youtube.com/watch?v=Cj8DQJFPJXA
+77. https://www.youtube.com/watch?v=Y_C1ENN90tI
+78. https://www.youtube.com/watch?v=1tst5TH2J_4
+79. https://www.youtube.com/watch?v=SBfVPc8G-AE
+80. https://www.youtube.com/watch?v=4ADvzNLcXT0
+81. https://www.youtube.com/watch?v=O_XEh3lkebs
+82. https://www.youtube.com/watch?v=Q92qN3TTC6Y
+83. https://www.youtube.com/watch?v=OhLt9arG4i8
+84. https://www.youtube.com/watch?v=Mb8bWPST2xs
+85. https://www.youtube.com/watch?v=ccSTkjzqz-c
+86. https://www.youtube.com/watch?v=x8XSSoimMH4
+87. https://www.youtube.com/watch?v=LBOh3IGH8hc
+88. https://www.youtube.com/watch?v=Kp8T7SPBOvo
+89. https://www.youtube.com/watch?v=nvrqNezMRiU
+90. https://www.youtube.com/watch?v=eWAJJl0e_TY
+91. https://www.youtube.com/watch?v=d-wxDOLgZO8
+92. https://www.youtube.com/watch?v=Ub6T021yOto
+93. https://www.youtube.com/watch?v=-D0rm0q1ass
+94. https://www.youtube.com/watch?v=EouoIHdqpCE
+95. https://www.youtube.com/watch?v=GuA-tkaenac
+96. https://www.youtube.com/watch?v=qIx35DaEx8I
+97. https://www.youtube.com/watch?v=TQLO2fCTiVY
+98. https://www.youtube.com/watch?v=o691Gj5tNLM
+99. https://www.youtube.com/watch?v=T4zzce3MWd0
+100. https://www.youtube.com/watch?v=hfBEMKwnOVM
+101. https://www.youtube.com/watch?v=lr0i14VDYB0
+102. https://www.youtube.com/watch?v=UaYasTchtwo
+103. https://www.youtube.com/watch?v=xmExoYMz77E
+104. https://www.youtube.com/watch?v=jggpzhBMd0E
+105. https://www.youtube.com/watch?v=u-fUGAoVhkI
+106. https://www.youtube.com/watch?v=WrdwHRiqmZc
+107. https://www.youtube.com/watch?v=dZMg880Emrc
+108. https://www.youtube.com/watch?v=XxRZWFMoIRk
+109. https://www.youtube.com/watch?v=JqWRxNIDDv4
+110. https://www.youtube.com/watch?v=vmEg0afEhnU
+111. https://www.youtube.com/watch?v=H-e3yiW1Mcc
+112. https://www.youtube.com/watch?v=YINQogFENvo
+113. https://www.youtube.com/watch?v=W50bzPF2k2Y
+114. https://www.youtube.com/watch?v=P7HLoCYLoE0
+115. https://www.youtube.com/watch?v=qaOBbu2Fwag
+116. https://www.youtube.com/watch?v=VLXeU40k9-M
+117. https://www.youtube.com/watch?v=Do_2TINdeB4
+118. https://www.youtube.com/watch?v=nj_4cw_z6E4
+119. https://www.youtube.com/watch?v=3YUIbto6P0c
+120. https://www.youtube.com/watch?v=Yq2OTyySjZI
+121. https://www.youtube.com/watch?v=LrG42s1uS5E
+122. https://www.youtube.com/watch?v=GxN9h-75xPE
+123. https://www.youtube.com/watch?v=T1h5l8G7emk
+124. https://www.youtube.com/watch?v=IssD1IlaHnk
+125. https://www.youtube.com/watch?v=EwBqkAyNqoU
+126. https://www.youtube.com/watch?v=0HqjRUO9xhc
+127. https://www.youtube.com/embed/l3PdjpxZmiU?autoplay=1&rel=0

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Khoá 1 · Ôn thi HSG, Chuyên lớp 10</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="../assets/css/player.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-main">
+      <button class="hamburger" id="hamburgerBtn"><i class="fas fa-bars"></i></button>
+      <a class="back-link" href="../index.html" title="Về trang chọn khoá học"><i class="fas fa-arrow-left"></i></a>
+      <div class="brand">
+        <div class="bi"><i class="fas fa-square-root-variable"></i></div>
+        <div><h1>Ôn thi HSG, <span>Chuyên lớp 10</span></h1></div>
+      </div>
+      <div class="sec-tabs" id="secTabs"></div>
+    </div>
+  </header>
+
+  <div class="body-layout">
+    <div class="sidebar-overlay" id="sideOverlay"></div>
+
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-scroll" id="sidebarNav"></div>
+    </aside>
+
+    <div class="viewer-area" id="viewerArea">
+      <div class="empty-viewer" id="emptyViewer">
+        <i class="fa-regular fa-hand-pointer"></i>
+        <h3>Chọn một bài học</h3>
+        <p>Bấm vào tam giác &#9654; bên cạnh chương để xem bài học.</p>
+      </div>
+      <div class="viewer-panel" id="viewerPanel">
+        <div class="viewer-top">
+          <span class="v-badge" id="vBadge">Bài giảng</span>
+          <h3 id="vTitle">Title</h3>
+          <button class="v-close" id="vClose"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+        <div class="viewer-container">
+          <iframe id="vIframe" allowfullscreen loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" title="Video player"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../data/curriculum.js"></script>
+  <script src="../assets/js/player.js"></script>
+</body>
+</html>
